@@ -27,7 +27,7 @@ To utilize this prediction model:
 
 2.Clone this repository.
 
-3.Install the required dependencies using pip install -r requirements.txt.
+3.Install the required dependencies
 
 4.Run the prediction script.
 
