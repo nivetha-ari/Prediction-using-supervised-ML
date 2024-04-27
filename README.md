@@ -1,6 +1,6 @@
 # Prediction-using-supervised-ML
 
-This project utilizes supervised machine learning techniques, specifically linear regression, to predict the percentage of a student based on the number of study hours. The dataset used for this project contains information about students' study hours and their corresponding scores.
+This project utilizes supervised machine learning techniques, specifically linear regression, to predict the percentage of a student based on the number of study hours. 
 
 **Dataset**:
 
